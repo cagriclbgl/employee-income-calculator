@@ -1,0 +1,16 @@
+C:\Users\cagri\Desktop\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.csproj.AssemblyReference.cache
+C:\Users\cagri\Desktop\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.csproj.SuggestedBindingRedirects.cache
+C:\Users\cagri\Desktop\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.csproj.CoreCompileInputs.cache
+C:\Users\cagri\Desktop\C# Dosyaları\Week_11_210229030\Week_11_210229030\bin\Debug\Week_11_210229030.exe.config
+C:\Users\cagri\Desktop\C# Dosyaları\Week_11_210229030\Week_11_210229030\bin\Debug\Week_11_210229030.exe
+C:\Users\cagri\Desktop\C# Dosyaları\Week_11_210229030\Week_11_210229030\bin\Debug\Week_11_210229030.pdb
+C:\Users\cagri\Desktop\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.exe
+C:\Users\cagri\Desktop\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.pdb
+D:\C# Dosyaları\Week_11_210229030\Week_11_210229030\bin\Debug\Week_11_210229030.exe.config
+D:\C# Dosyaları\Week_11_210229030\Week_11_210229030\bin\Debug\Week_11_210229030.exe
+D:\C# Dosyaları\Week_11_210229030\Week_11_210229030\bin\Debug\Week_11_210229030.pdb
+D:\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.csproj.AssemblyReference.cache
+D:\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.csproj.SuggestedBindingRedirects.cache
+D:\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.csproj.CoreCompileInputs.cache
+D:\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.exe
+D:\C# Dosyaları\Week_11_210229030\Week_11_210229030\obj\Debug\Week_11_210229030.pdb
